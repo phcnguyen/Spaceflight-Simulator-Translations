@@ -27,459 +27,458 @@
     Exit_To_Main_Menu=Exit To Main Menu
 
 [Main Menu]
-    Play=Play
+    Play=Chơi
 
-    Video_Tutorials_OpenButton=Video Tutorials
-    Video_Orbit=Orbit Tutorial
-    Video_Moon=Moon Tutorial
-    Video_Dock=Docking Tutorial
+    Video_Tutorials_OpenButton=Video Hướng Dẫn
+    Video_Orbit=Hướng Dẫn Quỹ Đạo
+    Video_Moon=Hướng Dẫn Mặt Trăng
+    Video_Dock=Hướng Dẫn Ghép Nối
 
-    Development_Preview=Development Preview
-    Development_Preview_Explanation=The development preview showcases future updates we are working on
+    Development_Preview=Xem Trước Bản Phát Triển
+    Development_Preview_Explanation=Bản xem trước này giới thiệu các cập nhật trong tương lai mà chúng tôi đang phát triển
 
-    Community_OpenButton=Community
-    Community_Youtube=Youtube
+    Community_OpenButton=Cộng Đồng
+    Community_Youtube=YouTube
     Community_Discord=Discord
     Community_Reddit=Reddit
-    Community_Forums=Forums
+    Community_Forums=Diễn Đàn
 
-    Credits_OpenButton=Credits
+    Credits_OpenButton=Nhóm Phát Triển
 
     Credits_Text=<Size=70> Štefo Mai Morojna </size>
-    Credits_Text=<Size=55> Designer - Programmer - Artist </size>
+    Credits_Text=<Size=55> Nhà Thiết Kế - Lập Trình Viên - Họa Sĩ </size>
     Credits_Text=
     Credits_Text=<Size=70> Jordi van der Molen </size>
-    Credits_Text=<Size=55> Programmer </size>
+    Credits_Text=<Size=55> Lập Trình Viên </size>
     Credits_Text=
     Credits_Text=<Size=70> Chris Christo </size>
-    Credits_Text=<Size=55> Programmer </size>
+    Credits_Text=<Size=55> Lập Trình Viên </size>
     Credits_Text=
     Credits_Text=<Size=70> Josh </size>
-    Credits_Text=<Size=55> Programmer </size>
+    Credits_Text=<Size=55> Lập Trình Viên </size>
     Credits_Text=
     Credits_Text=<Size=70> Aidan Ginise </size>
-    Credits_Text=<Size=55> Programmer </size>
+    Credits_Text=<Size=55> Lập Trình Viên </size>
     Credits_Text=
     Credits_Text=<Size=70> Andrey Onischenko </size>
-    Credits_Text=<Size=55> Programmer </size>
+    Credits_Text=<Size=55> Lập Trình Viên </size>
     Credits_Text=
     Credits_Text=<Size=70> Davi Vasc </size>
-    Credits_Text=<Size=55> Composer </size>
+    Credits_Text=<Size=55> Nhà Soạn Nhạc </size>
     Credits_Text=
     Credits_Text=<Size=70> Ashton Mills </size>
-    Credits_Text=<size=55> Composer </size>
+    Credits_Text=<size=55> Nhà Soạn Nhạc </size>
 
-    First_Time_Playing_Question=First time playing
+    First_Time_Playing_Question=Lần đầu chơi?
     First_Time_Playing_Question=Spaceflight Simulator?
 
-    First_Time_Playing_Yes=First Time Playing
-    First_Time_Playing_No=Played Before
+    First_Time_Playing_Yes=Lần Đầu Chơi
+    First_Time_Playing_No=Đã Từng Chơi
 
-    Update_Available=A new update is available!
+    Update_Available=Có bản cập nhật mới!
     Update_Available=
-    Update_Available=Current version: %old%
-    Update_Available=Latest version: %new%
+    Update_Available=Phiên bản hiện tại: %old%
+    Update_Available=Phiên bản mới nhất: %new%
 
-    Update_Confirm=Update
+    Update_Confirm=Cập Nhật
 
-    Rate_Title=Would you like to rate or review the game?
+    Rate_Title=Bạn có muốn đánh giá hoặc nhận xét về trò chơi không?
     Rate_Title=
-    Rate_Title=We deeply care about the quality of our game, your feedback helps us improve it
+    Rate_Title=Chúng tôi rất quan tâm đến chất lượng trò chơi, phản hồi của bạn giúp chúng tôi cải thiện
     Rate_Title=
-    Rate_Title=Even after thousands of reviews, we still read a large number of them!
+    Rate_Title=Dù đã có hàng nghìn đánh giá, chúng tôi vẫn đọc rất nhiều trong số đó!
 
-    Rate_Confirm=Rate
+    Rate_Confirm=Đánh Giá
 
-    Exit_Button=Exit
-    Close_Game=Close game?
+    Exit_Button=Thoát
+    Close_Game=Đóng trò chơi?
 
 [Worlds Menu]
-    Create_New_World_Button=Create New World
-    World_Delete=Delete world?
+    Create_New_World_Button=Tạo Thế Giới Mới
+    World_Delete=Xóa thế giới?
 
-# Create menu
-    Create_World_Title=World Name
-    Default_World_Name=My World
-    Select_Solar_System=Select world's solar system
+# Tạo thế giới
+    Create_World_Title=Tên Thế Giới
+    Default_World_Name=Thế Giới Của Tôi
+    Select_Solar_System=Chọn hệ mặt trời của thế giới
 
-    Select_Solar_System__NotFound=Solar system could not be found:
+    Select_Solar_System__NotFound=Không tìm thấy hệ mặt trời:
     Select_Solar_System__NotFound=%system%
     Select_Solar_System__NotFound=
-    Select_Solar_System__NotFound=Select a new solar system
+    Select_Solar_System__NotFound=Chọn hệ mặt trời mới
 
-    Default_Solar_System=Solar System (Default)
-    Custom_Solar_System=%name% (Custom)
+    Default_Solar_System=Hệ Mặt Trời (Mặc Định)
+    Custom_Solar_System=%name% (Tùy Chỉnh)
 
-# World info
-    World_Mode_Name=Mode: %value%
-    Mode_Sandbox=Sandbox
-    Mode_Challenge=Challenge
-    Mode_Career=Career
+# Thông tin thế giới
+    World_Mode_Name=Chế độ: %value%
+    Mode_Sandbox=Chơi Tự Do
+    Mode_Challenge=Thử Thách
+    Mode_Career=Sự Nghiệp
 
-    Allow_Cheats_Name=Allow Cheats: %value%
-    Allow_Cheats_Label=Allow Cheats
+    Allow_Cheats_Name=Cho Phép Gian Lận: %value%
+    Allow_Cheats_Label=Cho Phép Gian Lận
 
-    Allow_Quicksaves_Name=Allow Quicksaves: %value%
-    Allow_Quicksaves_Label=Allow Quicksaves
+    Allow_Quicksaves_Name=Cho Phép Lưu Nhanh: %value%
+    Allow_Quicksaves_Label=Cho Phép Lưu Nhanh
 
-    World_Difficulty_Name=Difficulty: %value%
-    Difficulty_Normal=Normal
-    Difficulty_Hard=Hard
-    Difficulty_Realistic=Realistic
+    World_Difficulty_Name=Độ khó: %value%
+    Difficulty_Normal=Bình Thường
+    Difficulty_Hard=Khó
+    Difficulty_Realistic=Thực Tế
 
-    Last_Played=Last played: %value% ago
-    Just_Played=Last played: A moment ago
-    Time_Played=Playtime: %value%
+    Last_Played=Chơi lần cuối: %value% trước
+    Just_Played=Chơi lần cuối: Vừa mới đây
+    Time_Played=Thời gian chơi: %value%
 
 [World Create Menu]
-    World_Create_Title=Create World
-    World_Name_Label=World Name:
-    Solar_System_Label=Solar System:
-    Mode_Label=Mode:
-    Difficulty_Label=Difficulty:
+    World_Create_Title=Tạo Thế Giới
+    World_Name_Label=Tên Thế Giới:
+    Solar_System_Label=Hệ Mặt Trời:
+    Mode_Label=Chế Độ:
+    Difficulty_Label=Độ Khó:
 
 [Saving]
-# Blueprint stuff
-    Blueprints_Menu_Title=Blueprints
-    Unnamed_Blueprint=Unnamed Blueprint
-    Save_Blueprint=Save Blueprint
-    Load_Blueprint=Load Blueprint
-    Cannot_Save_Empty_Build=Cannot save an empty blueprint
+# Bản thiết kế
+    Blueprints_Menu_Title=Bản Thiết Kế
+    Unnamed_Blueprint=Bản Thiết Kế Chưa Đặt Tên
+    Save_Blueprint=Lưu Bản Thiết Kế
+    Load_Blueprint=Tải Bản Thiết Kế
+    Cannot_Save_Empty_Build=Không thể lưu bản thiết kế trống
 
-# Quicksave stuff
-    Quicksaves_Menu_Title=Quicksaves
-    Unnamed_Quicksave=Unnamed Quicksave
-    Create_Quicksave=Create Quicksave
-    Load_Quicksave=Load Quicksave
+# Lưu nhanh
+    Quicksaves_Menu_Title=Lưu Nhanh
+    Unnamed_Quicksave=Lưu Nhanh Chưa Đặt Tên
+    Create_Quicksave=Tạo Lưu Nhanh
+    Load_Quicksave=Tải Lưu Nhanh
 
-# Save and load menus
-    Save=Save
-    Load=Load
-    Import=Import
-    Delete=Delete
-    Rename=Rename
-    Delete_File_With_Type=Delete %filename% %filetype{1}%
+# Menu lưu và tải
+    Save=Lưu
+    Load=Tải
+    Import=Nhập
+    Delete=Xóa
+    Rename=Đổi Tên
+    Delete_File_With_Type=Xóa %filename% %filetype{1}%
 
-# In progress
-    Saving_In_Progress=Saving...
-    Loading_In_Progress=Loading...
-    Importing_In_Progress=Importing...
+# Đang xử lý
+    Saving_In_Progress=Đang lưu...
+    Loading_In_Progress=Đang tải...
+    Importing_In_Progress=Đang nhập...
 
-# filetype (injected)
-    Blueprint{0}=Blueprint
-    Blueprint{1}=blueprint
-    Blueprint{2}=blueprints
-    Quicksave{0}=Quicksave
-    Quicksave{1}=quicksave
-    Quicksave{2}=quicksaves
+# Loại file (tự động chèn)
+    Blueprint{0}=Bản Thiết Kế
+    Blueprint{1}=bản thiết kế
+    Blueprint{2}=bản thiết kế
+    Quicksave{0}=Lưu Nhanh
+    Quicksave{1}=lưu nhanh
+    Quicksave{2}=lưu nhanh
 
-# Ask overwrite menu
-    File_Already_Exists=A %filetype{1}% with this name already exists
-    Overwrite_File=Overwrite %filetype{1}%
-    New_File=New %filetype{1}%
+# Hỏi ghi đè
+    File_Already_Exists=Đã tồn tại một %filetype{1}% với tên này
+    Overwrite_File=Ghi đè %filetype{1}%
+    New_File=Tạo %filetype{1}% mới
 
-# Load failure
-    Load_Failed=Could not load %filetype{1}% from %filepath%
+# Lỗi tải
+    Load_Failed=Không thể tải %filetype{1}% từ %filepath%
 
 [Purchasing]
-    Open_Shop_Menu=Expansions
-    Parts_Expansion=Parts Expansion
-    Redstone_Atlas_Pack=Redstone Atlas Pack
-    Skins_Expansion=Skins Expansion
-    Planets_Expansion=Planets Expansion
-    Cheats_Expansion=Cheats
-    Infinite_Area_Expansion=Infinite Build Area
-    Builder_Bundle=Builder Bundle
-    Sandbox_Bundle=Sandbox Bundle
-    Full_Bundle=Full Bundle
-    Upgrade_To_Full_Bundle=Upgrade To Full Bundle
-    Mac_Full_Version=Full Version
+    Open_Shop_Menu=Mở Rộng
+    Parts_Expansion=Mở Rộng Bộ Phận
+    Redstone_Atlas_Pack=Gói Redstone Atlas
+    Skins_Expansion=Mở Rộng Giao Diện
+    Planets_Expansion=Mở Rộng Hành Tinh
+    Cheats_Expansion=Gian Lận
+    Infinite_Area_Expansion=Khu Vực Xây Dựng Vô Hạn
+    Builder_Bundle=Gói Nhà Xây Dựng
+    Sandbox_Bundle=Gói Chế Độ Tự Do
+    Full_Bundle=Gói Đầy Đủ
+    Upgrade_To_Full_Bundle=Nâng Cấp Lên Gói Đầy Đủ
+    Mac_Full_Version=Phiên Bản Đầy Đủ
 
-    Not_All_Parts_Are_Owned=Not all parts are owned
-    Not_All_Parts_Are_Owned=Disabled not owned parts
+    Not_All_Parts_Are_Owned=Không sở hữu tất cả bộ phận
+    Not_All_Parts_Are_Owned=Tắt các bộ phận chưa sở hữu
     Not_All_Parts_Are_Owned=
-    Not_All_Parts_Are_Owned=View parts expansion?
+    Not_All_Parts_Are_Owned=Xem gói mở rộng bộ phận?
 
-    View_Part_Expansion=View Expansion
+    View_Part_Expansion=Xem Gói Mở Rộng
 
-    More_Parts=View Parts Expansion
-    More_Skins=View Skins Expansion
-    Cannot_Use_Cheats_In_Career=Cheats can only be used in a sandbox mode world
-    Get_Infinite_Build_Area_Button=Get Infinite Build Area
-    Get_Cheats_Expansion_Button=Get Cheats Expansion
+    More_Parts=Xem Gói Bộ Phận
+    More_Skins=Xem Gói Giao Diện
+    Cannot_Use_Cheats_In_Career=Gian lận chỉ có thể sử dụng trong chế độ tự do
+    Get_Infinite_Build_Area_Button=Mua Khu Vực Xây Dựng Vô Hạn
+    Get_Cheats_Expansion_Button=Mua Gói Gian Lận
 
-    Buy_Product=Buy %product% %price%
+    Buy_Product=Mua %product% %price%
 
     Timed_Sale_Text=%product_name% -%sale_percent%
-    Timed_Sale_Text=%time_left%
+    Timed_Sale_Text=Còn lại: %time_left%
 
-    Time_Upgrade_Text=Upgrade to %product_name% -%sale_percent%
-    Time_Upgrade_Text=%time_left%
+    Time_Upgrade_Text=Nâng cấp lên %product_name% -%sale_percent%
+    Time_Upgrade_Text=Còn lại: %time_left%
 
-    Purchase_Thanks_Msg=Purchased: %product%
+    Purchase_Thanks_Msg=Đã mua: %product%
     Purchase_Thanks_Msg=
-    Purchase_Thanks_Msg=Thanks for your support!
-    Purchase_Thanks_Msg=Now go and explore the stars!
+    Purchase_Thanks_Msg=Cảm ơn sự ủng hộ của bạn!
+    Purchase_Thanks_Msg=Bây giờ hãy đi khám phá các vì sao!
 
-    Owned=%product% (Owned)
+    Owned=%product% (Đã sở hữu)
 
-    Restore_Open=Restore Purchases
+    Restore_Open=Khôi Phục Mua Hàng
 
 # Parts Expansion
-    PartsExpansion_Tanks=Large variety of fuel tanks!
-    PartsExpansion_Engines=Heavy lift engines!
-    PartsExpansion_Parts=Parts of all shapes and sizes!
+    PartsExpansion_Tanks=Nhiều loại bình nhiên liệu lớn!
+    PartsExpansion_Engines=Động cơ nâng hạng nặng!
+    PartsExpansion_Parts=Các bộ phận đa dạng kích thước và hình dạng!
 
-    PartsExpansion_Build=Large build space to bring
-    PartsExpansion_Build=your creations to life!
+    PartsExpansion_Build=Khu vực xây dựng lớn để  
+    PartsExpansion_Build=hiện thực hóa ý tưởng của bạn!
 
 # Skins Expansion
-    SkinsExpansion_Tanks=Paint your parts in a diverse variety of skins!
-    SkinsExpansion_Interstages=Color everything from interstages
-    SkinsExpansion_Nosecones=To nosecones
-    SkinsExpansion_Fairings=And even fairings
+    SkinsExpansion_Tanks=Tô màu cho bộ phận với nhiều giao diện đa dạng!
+    SkinsExpansion_Interstages=Tô màu mọi thứ từ các tầng trung gian  
+    SkinsExpansion_Nosecones=Đến các nắp mũi
+    SkinsExpansion_Fairings=Và cả vỏ bảo vệ
 
 # Planets Expansion
-    PlanetsExpansion_Jupiter=Explore Jupiter and its four moons!
-    PlanetsExpansion_Callisto=From the heavily cratered surface of Callisto!
-    PlanetsExpansion_Europa=To the vast ice flats of Europa!
+    PlanetsExpansion_Jupiter=Khám phá Sao Mộc và bốn mặt trăng của nó!
+    PlanetsExpansion_Callisto=Từ bề mặt đầy hố va chạm của Callisto!
+    PlanetsExpansion_Europa=Đến những vùng băng rộng lớn của Europa!
 
-    PlanetsExpansion_Conclusion=Distant worlds are waiting for you
-    PlanetsExpansion_Conclusion=to explore them!
+    PlanetsExpansion_Conclusion=Những thế giới xa xôi đang chờ  
+    PlanetsExpansion_Conclusion=bạn khám phá!
 
 [Sharing]
-    Share_Button=Share Blueprint
-    Upload_Blueprint_PC=Upload Blueprint
-    Download_Blueprint_PC=Download Blueprint
-    Share_Button_PC=Share
-    Download_Confirm=Download
-    URL_Field_TextBox=Blueprint URL
-    Empty_Upload=Cannot upload empty blueprint
-    Uploading_Message=Uploading...
-    Upload_Fail=Failed to upload blueprint
-    Copied_URL_To_Clipboard=Copied blueprint URL to clipboard
-    Sharing_Enter_Prompt=Select which world you want blueprint to be loaded into
-    Confirm_Download_Button=Download Blueprint
-    Downloading_Message=Downloading...
-    Download_Fail=Failed to download blueprint
-    URL_Invalid=Invalid Blueprint URL
-    Sharing_Connect_Fail=Could not connect to sharing servers
+    Share_Button=Chia Sẻ Bản Thiết Kế
+    Upload_Blueprint_PC=Tải Lên Bản Thiết Kế
+    Download_Blueprint_PC=Tải Xuống Bản Thiết Kế
+    Share_Button_PC=Chia Sẻ
+    Download_Confirm=Tải Xuống
+    URL_Field_TextBox=URL Bản Thiết Kế
+    Empty_Upload=Không thể tải lên bản thiết kế trống
+    Uploading_Message=Đang tải lên...
+    Upload_Fail=Tải lên thất bại
+    Copied_URL_To_Clipboard=Đã sao chép URL bản thiết kế
+    Sharing_Enter_Prompt=Chọn thế giới để tải bản thiết kế vào
+    Confirm_Download_Button=Tải Xuống Bản Thiết Kế
+    Downloading_Message=Đang tải xuống...
+    Download_Fail=Tải xuống thất bại
+    URL_Invalid=URL Bản Thiết Kế Không Hợp Lệ
+    Sharing_Connect_Fail=Không thể kết nối đến máy chủ chia sẻ
 
 [Settings Mobile]
-    Music_Name=Music
-    Sound_Name=Sound
-    Screen_Rotation_Name=Screen Rotation
-    FPS_Name=Fps
-    Language_Name=Language
-    Menu_Scale=Interface Scale
-    Menu_Opacity=Interface Opacity
-    Shakes_Name=Camera Shake
-    Orbit_Line_Count=Orbit Line Count
-    Anti_Aliasing=Anti-Aliasing
+    Music_Name=Âm Nhạc
+    Sound_Name=Âm Thanh
+    Screen_Rotation_Name=Xoay Màn Hình
+    FPS_Name=Tốc Độ Khung Hình (FPS)
+    Language_Name=Ngôn Ngữ
+    Menu_Scale=Tỷ Lệ Giao Diện
+    Menu_Opacity=Độ Mờ Giao Diện
+    Shakes_Name=Rung Máy Ảnh
+    Orbit_Line_Count=Số Đường Quỹ Đạo
+    Anti_Aliasing=Khử Răng Cưa
 
 [Cheats]
-    Infinite_Build_Area_Name=Infinite Build Area
-    Part_Clipping_Name=Part Clipping
-    Infinite_Fuel_Name=Infinite Fuel
-    No_Atmospheric_Drag_Name=No Atmospheric Drag
-    No_Collision_Damage_Name=No Collision Damage
-    No_Gravity_Name=No Gravity
-    No_Heat_Damage_Name=No Heat Damage
-    No_Burn_Marks_Name=No Burn Marks
+    Infinite_Build_Area_Name=Khu Vực Xây Dựng Vô Hạn
+    Part_Clipping_Name=Gắn Chồng Bộ Phận
+    Infinite_Fuel_Name=Nhiên Liệu Vô Hạn
+    No_Atmospheric_Drag_Name=Không Cản Khí Quyển
+    No_Collision_Damage_Name=Không Hư Hại Va Chạm
+    No_Gravity_Name=Không Trọng Lực
+    No_Heat_Damage_Name=Không Hư Hại Nhiệt
+    No_Burn_Marks_Name=Không Dấu Cháy
 
 [Tutorials]
+    Tut_Drag_And_Drop=Kéo thả bộ phận  
+    Tut_Drag_And_Drop=để xây dựng tên lửa
 
-    Tut_Drag_And_Drop=Drag and drop parts
-    Tut_Drag_And_Drop=to build your rocket
+    Tut_Part_Info=Nhấp vào để xem  
+    Tut_Part_Info=thông tin bộ phận
 
-    Tut_Part_Info=Click to view
-    Tut_Part_Info=part information
-
-    Tut_Use_Part=Click on parts to use them
-    Tut_Ignition=Ignition!
-    Tut_Throttle=Adjust throttle
+    Tut_Use_Part=Nhấp vào bộ phận để sử dụng  
+    Tut_Ignition=Khởi động!
+    Tut_Throttle=Điều chỉnh lực đẩy
 
 [Hub]
-    Funds_Text=Funds: %funds%
-    Go_To_Space_Center=Space Center
-    Exit_To_Space_Center=Exit To Space Center
-    Research_And_Development=Research & Development %complete%/%total%
-    Challenges_Info=Challenges: %complete%/%total%
-    Challenges_Button=Challenges: %complete%/%total%
-    Challenges_Title=Challenges:
+    Funds_Text=Tiền: %funds%
+    Go_To_Space_Center=Trung Tâm Không Gian
+    Exit_To_Space_Center=Thoát về Trung Tâm Không Gian
+    Research_And_Development=Nghiên Cứu & Phát Triển %complete%/%total%
+    Challenges_Info=Thử Thách: %complete%/%total%
+    Challenges_Button=Thử Thách: %complete%/%total%
+    Challenges_Title=Thử Thách:
 
-    Challenges_Completed=<size=55>Challenge completed:</size>
+    Challenges_Completed=<size=55>Hoàn thành thử thách:</size>
     Challenges_Completed=%challenge%
 
 [Build]
-    Build_New_Rocket=Build New Rocket
-    New=New
-    Expand_Last_Rocket=Continue Build
+    Build_New_Rocket=Xây Tên Lửa Mới
+    New=Mới
+    Expand_Last_Rocket=Tiếp Tục Xây Dựng
 
-    Symmetry_On=Symmetry: On
-    Symmetry_Off=Symmetry: Off
+    Symmetry_On=Đối Xứng: Bật
+    Symmetry_Off=Đối Xứng: Tắt
 
-    Interior_View_On=Interior View: On
-    Interior_View_Off=Interior View: Off
+    Interior_View_On=Chế Độ Bên Trong: Bật
+    Interior_View_Off=Chế Độ Bên Trong: Tắt
 
-    Launch_Button=Launch
-    Move_Rocket_Button=Move Rocket
+    Launch_Button=Phóng
+    Move_Rocket_Button=Dịch Chuyển Tên Lửa
 
-# Clear build area
-    Clear_Warning=Clear build area?
-    Clear_Confirm=Clear
+# Xóa khu vực xây dựng
+    Clear_Warning=Xóa khu vực xây dựng?
+    Clear_Confirm=Xóa
 
-# Launch warnings
-    Warnings_Title=WARNING:
-    Missing_Capsule=Your rocket has no capsule or probe, making it uncontrollable
-    Missing_Parachute=Your rocket has no parachute
-    Missing_Heat_Shield=Your rocket has no heat shield
-    Missing_Fuel_Popup=No fuel source
+# Cảnh báo phóng
+    Warnings_Title=CẢNH BÁO:
+    Missing_Capsule=Tên lửa của bạn không có khoang lái hoặc đầu dò, khiến nó không thể điều khiển
+    Missing_Parachute=Tên lửa của bạn không có dù
+    Missing_Heat_Shield=Tên lửa của bạn không có tấm chắn nhiệt
+    Missing_Fuel_Popup=Không có nguồn nhiên liệu
 
-    Too_Heavy=Your rocket is too heavy to launch
+    Too_Heavy=Tên lửa của bạn quá nặng để phóng
     Too_Heavy=%mass%
     Too_Heavy=%thrust%
 
-    Launch_Anyway_Button=Launch Anyway
+    Launch_Anyway_Button=Vẫn Phóng
 
-    Launch_Horizontally_Ask=Launch horizontally?
-    Launch_Horizontally_Confirm=Launch Horizontally
-    Launch_Vertically_Confirm=Launch Vertically
+    Launch_Horizontally_Ask=Phóng theo phương ngang?
+    Launch_Horizontally_Confirm=Phóng Ngang
+    Launch_Vertically_Confirm=Phóng Thẳng
 
-# Example rockets
-    Example_Rockets_OpenMenu=Example Rockets
-    Basic_Rocket=Basic Rocket
-    Stages=Two Stage Rocket
-    Ideal_Stages=Three Stage Rocket
-    Lander=Moon Lander
+# Tên lửa mẫu
+    Example_Rockets_OpenMenu=Tên Lửa Mẫu
+    Basic_Rocket=Tên Lửa Cơ Bản
+    Stages=Tên Lửa Hai Tầng
+    Ideal_Stages=Tên Lửa Ba Tầng
+    Lander=Tàu Đổ Bộ Mặt Trăng
 
 [Map]
-    Toggle_Map_Button=Map
-    Escape=Escape
-    Encounter=Encounter
-    Rendezvous=Rendezvous
-    Transfer=Transfer Window
+    Toggle_Map_Button=Bản Đồ
+    Escape=Thoát
+    Encounter/Gặp Gỡ=Chạm Trán
+    Rendezvous=Gặp Gỡ
+    Transfer=Cửa Sổ Chuyển Quỹ Đạo
 
 [Game]
-    Throttle_On=On
-    Throttle_Off=Off
-    Ignition=IGNITION
+    Throttle_On=Bật
+    Throttle_Off=Tắt
+    Ignition=KHỞI ĐỘNG
     RCS=RCS
 
-# Game supports screen rotation, we split into 2 lines in vertical mode
-    Height_Terrain_Vertical=Height (Terrain):
+# Game hỗ trợ xoay màn hình, tách thành 2 dòng ở chế độ dọc
+    Height_Terrain_Vertical=Độ Cao (Địa Hình):
     Height_Terrain_Vertical=
     Height_Terrain_Vertical=%height%
 
-    Height_Vertical=Height:
+    Height_Vertical=Độ Cao:
     Height_Vertical=
     Height_Vertical=%height%
 
-    Velocity_Vertical=Velocity:
+    Velocity_Vertical=Tốc Độ:
     Velocity_Vertical=
     Velocity_Vertical=%speed%
 
-    Velocity_Relative_Vertical=Velocity (Relative):
+    Velocity_Relative_Vertical=Tốc Độ (Tương Đối):
     Velocity_Relative_Vertical=
     Velocity_Relative_Vertical=%speed%
 
-    Distance_Relative_Vertical=Distance (Relative):
+    Distance_Relative_Vertical=Khoảng Cách (Tương Đối):
     Distance_Relative_Vertical=
     Distance_Relative_Vertical=%distance%
 
-    Angle_Vertical=Angle:
+    Angle_Vertical=Góc:
     Angle_Vertical=
     Angle_Vertical=%angle% / %targetAngle%
 
-    Height_Terrain_Horizontal=Height (Terrain): %height%
-    Height_Horizontal=Height: %height%
-    Velocity_Horizontal=Velocity: %speed%
-    Velocity_Relative_Horizontal=Velocity (Relative): %speed%
-    Distance_Relative_Horizontal=Distance (Relative): %distance%
-    Angle_Horizontal=Angle: %angle% / %targetAngle%
+    Height_Terrain_Horizontal=Độ Cao (Địa Hình): %height%
+    Height_Horizontal=Độ Cao: %height%
+    Velocity_Horizontal=Tốc Độ: %speed%
+    Velocity_Relative_Horizontal=Tốc Độ (Tương Đối): %speed%
+    Distance_Relative_Horizontal=Khoảng Cách (Tương Đối): %distance%
+    Angle_Horizontal=Góc: %angle% / %targetAngle%
 
-    Relative_Velocity_Arrow=Relative Velocity
+    Relative_Velocity_Arrow=Tốc Độ Tương Đối
     Relative_Velocity_Arrow=%velocity%
 
-    Side_Velocity_Arrow=Side Velocity
+    Side_Velocity_Arrow=Tốc Độ Ngang
     Side_Velocity_Arrow=%velocity%
 
-    Forward_Velocity_Arrow=Distance
+    Forward_Velocity_Arrow=Khoảng Cách
     Forward_Velocity_Arrow=%distance%
     Forward_Velocity_Arrow=
-    Forward_Velocity_Arrow=Velocity
+    Forward_Velocity_Arrow=Tốc Độ
     Forward_Velocity_Arrow=%velocity%
 
 [Failure menu]
-    Failure_Cause=FAILURE CAUSE:
-    Failure_Crash_Into_Rocket=Crashed into another rocket
-    Failure_Crash_Into_Terrain=Crashed into the surface of %planet{1}%
-    Failure_Burn_Up=Burned up on reentry
+    Failure_Cause=NGUYÊN NHÂN THẤT BẠI:
+    Failure_Crash_Into_Rocket=Va chạm với một tên lửa khác
+    Failure_Crash_Into_Terrain=Va chạm với bề mặt %planet{1}%
+    Failure_Burn_Up=Bốc cháy khi tái nhập khí quyển
 
 [End mission menu]
-    Recover_Rocket=Recover
-    Destroy_Rocket=Destroy
-    Debris_Recover=Recover Debris
-    Debris_Destroy=Destroy Debris
-    Debris_Recover_Title=Recover debris?
-    Debris_Destroy_Title=Destroy debris?
-    View_Mission_Log=View Flight Log
+    Recover_Rocket=Thu Hồi
+    Destroy_Rocket=Phá Hủy
+    Debris_Recover=Thu Hồi Mảnh Vỡ
+    Debris_Destroy=Phá Hủy Mảnh Vỡ
+    Debris_Recover_Title=Thu hồi mảnh vỡ?
+    Debris_Destroy_Title=Phá hủy mảnh vỡ?
+    View_Mission_Log=Xem Nhật Ký Bay
 
-# Restart menu
-    Restart_Mission_To_Launch_Warning=WARNING:
-    Restart_Mission_To_Launch_Warning=This will undo all progress since last launch
+# Menu khởi động lại
+    Restart_Mission_To_Launch_Warning=CẢNH BÁO:
+    Restart_Mission_To_Launch_Warning=Điều này sẽ hoàn tác mọi tiến trình kể từ lần phóng gần nhất
 
-    Restart_Mission_To_Build_Warning=WARNING:
-    Restart_Mission_To_Build_Warning=This will undo all progress since last launch
+    Restart_Mission_To_Build_Warning=CẢNH BÁO:
+    Restart_Mission_To_Build_Warning=Điều này sẽ hoàn tác mọi tiến trình kể từ lần phóng gần nhất
 
-    Restart_Mission_To_Launch=Revert To Launch
-    Restart_Mission_To_Build=Revert To Build
-    Revert_30_Secs=Revert 30 Sec
-    Revert_3_Min=Revert 3 Min
+    Restart_Mission_To_Launch=Quay Lại Lần Phóng
+    Restart_Mission_To_Build=Quay Lại Xây Dựng
+    Revert_30_Secs=Quay Lại 30 Giây
+    Revert_3_Min=Quay Lại 3 Phút
 
-# End mission menu
-    End_Challenges_Title=Challenges:
-    End_Logs_Title=Mission Log:
-    Continue_To_Log=Continue
-    Back_To_Challenges=Back
+# Menu kết thúc nhiệm vụ
+    End_Challenges_Title=Thử Thách:
+    End_Logs_Title=Nhật Ký Nhiệm Vụ:
+    Continue_To_Log=Tiếp Tục
+    Back_To_Challenges=Quay Lại
 
-# Clear space junk/debris
-    Clear_Debris_Warning=Clear debris?
+# Xóa rác không gian/mảnh vỡ
+    Clear_Debris_Warning=Xóa mảnh vỡ?
     Clear_Debris_Warning=
-    Clear_Debris_Warning=This will remove all uncontrollable rockets
+    Clear_Debris_Warning=Điều này sẽ loại bỏ tất cả các tên lửa không thể điều khiển
 
-    Clear_Debris_Confirm=Clear Debris
+    Clear_Debris_Confirm=Xóa Mảnh Vỡ
 
-    Navigate_To=Navigate To
-    End_Navigation=End Navigation
-    Focus=Focus
-    Unfocus=Unfocus
-    Track=Track
-    Stop_Tracking=Stop Tracking
-    Switch_To=Switch To
+    Navigate_To=Đi Đến
+    End_Navigation=Dừng Điều Hướng
+    Focus=Tập Trung
+    Unfocus=Hủy Tập Trung
+    Track=Theo Dõi
+    Stop_Tracking=Dừng Theo Dõi
+    Switch_To=Chuyển Đổi
 
 [Rocket]
-    Default_Rocket_Name=Rocket
-    No_Control_Msg=No control
+    Default_Rocket_Name=Tên Lửa
+    No_Control_Msg=Không thể điều khiển
 
 [Timewarp]
-    Msg_Timewarp_Speed=Time acceleration %speed%x
+    Msg_Timewarp_Speed=Tăng tốc thời gian %speed%x
 
-    Cannot_Timewarp_Below_Basic=Cannot timewarp below %height%
-    Cannot_Timewarp_Below=Cannot timewarp faster than %speed%x while below %height%
-    Cannot_Timewarp_While_Moving_On_Surface=Cannot timewarp faster than %speed%x while moving on the surface
-    Cannot_Timewarp_While_Accelerating=Cannot timewarp faster than %speed%x while under acceleration
-    Cannot_Use_Part_While_Timewarping=Cannot use %part{1}% while timewarping
-    Cannot_Turn_While_Timewarping=Cannot turn while timewarping
+    Cannot_Timewarp_Below_Basic=Không thể tăng tốc thời gian dưới %height%
+    Cannot_Timewarp_Below=Không thể tăng tốc nhanh hơn %speed%x khi ở dưới %height%
+    Cannot_Timewarp_While_Moving_On_Surface=Không thể tăng tốc nhanh hơn %speed%x khi đang di chuyển trên bề mặt
+    Cannot_Timewarp_While_Accelerating=Không thể tăng tốc nhanh hơn %speed%x khi đang tăng tốc
+    Cannot_Use_Part_While_Timewarping=Không thể sử dụng %part{1}% trong khi tăng tốc thời gian
+    Cannot_Turn_While_Timewarping=Không thể xoay khi đang tăng tốc thời gian
 
-    Timewarp_To_Button=Timewarp Here
+    Timewarp_To_Button=Tăng tốc thời gian tới đây
 
 [Units]
-    Thrust_To_Weight_Ratio=Thrust / Weight: %value%
-    Mass=Mass: %value%t
-    Thrust=Thrust: %value%t
-    Burn_Time=Burn Time: %value%s
-    Efficiency=Efficiency: %value% Isp
+    Thrust_To_Weight_Ratio=Lực đẩy / Trọng lượng: %value%
+    Mass=Khối lượng: %value%t
+    Thrust=Lực đẩy: %value%t
+    Burn_Time=Thời gian đốt: %value%s
+    Efficiency=Hiệu suất: %value% Isp
     Mass_Unit=t
     Meter_Unit=m
     Km_Unit=km
@@ -492,285 +491,271 @@
     Day_Short=%value%d
 
 [Resource Types]
-    Solid_Fuel{0}=Solid fuel
-    Solid_Fuel{1}=solid fuel
-    Liquid_Fuel{0}=Liquid fuel
-    Liquid_Fuel{1}=liquid fuel
+    Solid_Fuel{0}=Nhiên liệu rắn
+    Solid_Fuel{1}=nhiên liệu rắn
+    Liquid_Fuel{0}=Nhiên liệu lỏng
+    Liquid_Fuel{1}=nhiên liệu lỏng
 
 [Resource Uses]
     Resource_Bars_Title=%resource_name{0}%:
     Info_Resource_Amount=%resource{0}%: %amount%
-    Msg_No_Resource_Source=No %resource{1}% source
-    Msg_No_Resource_Left=Out of %resource{1}%
+    Msg_No_Resource_Source=Không có nguồn %resource{1}%
+    Msg_No_Resource_Left=Hết %resource{1}%
 
 [Part Categories]
-    Basic_Parts=Basics
-    Six_Wide_Parts=6 Wide
-    Eight_Wide_Parts=8 Wide
-    Ten_Wide_Parts=10 Wide
-    Twelve_Wide_Parts=12 Wide
-    Engine_Parts=Engines
-    Aerodynamics_Parts=Aerodynamics
-    Fairings_Parts=Fairings
-    Structural_Parts=Structural
-    Other_Parts=Other
+    Basic_Parts=Cơ bản
+    Six_Wide_Parts=Rộng 6
+    Eight_Wide_Parts=Rộng 8
+    Ten_Wide_Parts=Rộng 10
+    Twelve_Wide_Parts=Rộng 12
+    Engine_Parts=Động cơ
+    Aerodynamics_Parts=Khí động học
+    Fairings_Parts=Chụp mũi
+    Structural_Parts=Kết cấu
+    Other_Parts=Khác
 
 [Part Names]
-    Capsule_Name{0}=Capsule
-    Capsule_Name{1}=capsule
-    Probe_Name{0}=Probe
-    Probe_Name{1}=probe
-    Parachute_Name{0}=Parachute
-    Parachute_Name{1}=parachute
+    Capsule_Name{0}=Khoang lái
+    Capsule_Name{1}=khoang lái
+    Probe_Name{0}=Tàu thăm dò
+    Probe_Name{1}=tàu thăm dò
+    Parachute_Name{0}=Dù hãm
+    Parachute_Name{1}=dù hãm
 
-    Kolibri_Engine_Name{0}=Kolibri Engine
-    Kolibri_Engine_Name{1}=kolibri engine
-    Hawk_Engine_Name{0}=Hawk Engine
-    Hawk_Engine_Name{1}=hawk engine
-    Valiant_Engine_Name{0}=Valiant Engine
-    Valiant_Engine_Name{1}=valiant engine
-    Titan_Engine_Name{0}=Titan Engine
-    Titan_Engine_Name{1}=titan engine
-    Frontier_Engine_Name{0}=Frontier Engine
-    Frontier_Engine_Name{1}=frontier engine
-    Peregrine_Engine_Name{0}=Peregrine Engine
-    Peregrine_Engine_Name{1}=peregrine engine
-    Ion_Engine_Name{0}=Ion Engine
-    Ion_Engine_Name{1}=ion engine
-    RCS_Thruster_Name{0}=RCS Thruster
-    RCS_Thruster_Name{1}=rcs thruster
+    Kolibri_Engine_Name{0}=Động cơ Kolibri
+    Kolibri_Engine_Name{1}=động cơ kolibri
+    Hawk_Engine_Name{0}=Động cơ Hawk
+    Hawk_Engine_Name{1}=động cơ hawk
+    Valiant_Engine_Name{0}=Động cơ Valiant
+    Valiant_Engine_Name{1}=động cơ valiant
+    Titan_Engine_Name{0}=Động cơ Titan
+    Titan_Engine_Name{1}=động cơ titan
+    Frontier_Engine_Name{0}=Động cơ Frontier
+    Frontier_Engine_Name{1}=động cơ frontier
+    Peregrine_Engine_Name{0}=Động cơ Peregrine
+    Peregrine_Engine_Name{1}=động cơ peregrine
+    Ion_Engine_Name{0}=Động cơ Ion
+    Ion_Engine_Name{1}=động cơ ion
+    RCS_Thruster_Name{0}=Động cơ RCS
+    RCS_Thruster_Name{1}=động cơ rcs
 
-    Solid_Rocket_Booster{0}=Solid Rocket Booster
-    Solid_Rocket_Booster{1}=solid rocket booster
+    Solid_Rocket_Booster{0}=Tên lửa đẩy nhiên liệu rắn
+    Solid_Rocket_Booster{1}=tên lửa đẩy nhiên liệu rắn
 
-    Fuel_Tank_Name{0}=Fuel Tank
-    Fuel_Tank_Name{1}=fuel tank
-    Separator_Name{0}=Stage Separator
-    Separator_Name{1}=stage separator
-    Side_Separator_Name{0}=Side Separator
-    Side_Separator_Name{1}=side separator
-    Structural_Part_Name{0}=Structural Part
-    Structural_Part_Name{1}=structural part
-    Landing_Leg_Name{0}=Landing Leg
-    Landing_Leg_Name{1}=landing leg
-    Aerodynamic_Nose_Cone_Name{0}=Aerodynamic Nose Cone
-    Aerodynamic_Nose_Cone_Name{1}=aerodynamic nose cone
-    Aerodynamic_Fuselage_Name{0}=Aerodynamic Fuselage
-    Aerodynamic_Fuselage_Name{1}=aerodynamic fuselage
-    Fairing_Name{0}=Fairing
-    Fairing_Name{1}=fairing
-    Rover_Wheel_Name{0}=Rover Wheel
-    Rover_Wheel_Name{1}=rover wheel
-    Docking_Port_Name{0}=Docking Port
-    Docking_Port_Name{1}=docking port
-    Solar_Panel_Name{0}=Solar Panel
-    Solar_Panel_Name{1}=solar panel
-    Battery_Name{0}=Battery
-    Battery_Name{1}=battery
+    Fuel_Tank_Name{0}=Bình nhiên liệu
+    Fuel_Tank_Name{1}=bình nhiên liệu
+    Separator_Name{0}=Bộ tách tầng
+    Separator_Name{1}=bộ tách tầng
+    Side_Separator_Name{0}=Bộ tách bên
+    Side_Separator_Name{1}=bộ tách bên
+    Structural_Part_Name{0}=Bộ phận kết cấu
+    Structural_Part_Name{1}=bộ phận kết cấu
+    Landing_Leg_Name{0}=Chân đáp
+    Landing_Leg_Name{1}=chân đáp
+    Aerodynamic_Nose_Cone_Name{0}=Chóp mũi khí động học
+    Aerodynamic_Nose_Cone_Name{1}=chóp mũi khí động học
+    Aerodynamic_Fuselage_Name{0}=Thân máy bay khí động học
+    Aerodynamic_Fuselage_Name{1}=thân máy bay khí động học
+    Fairing_Name{0}=Chụp bảo vệ khí động học
+    Fairing_Name{1}=chụp bảo vệ khí động học
+    Rover_Wheel_Name{0}=Bánh xe Rover
+    Rover_Wheel_Name{1}=bánh xe rover
+    Docking_Port_Name{0}=Cổng kết nối
+    Docking_Port_Name{1}=cổng kết nối
+    Solar_Panel_Name{0}=Tấm pin mặt trời
+    Solar_Panel_Name{1}=tấm pin mặt trời
+    Battery_Name{0}=Pin
+    Battery_Name{1}=pin
     RTG_Name{0}=RTG
     RTG_Name{1}=rtg
-    Heat_Shield_Name{0}=Heat Shield
-    Heat_Shield_Name{1}=heat shield
-    Fuel_Pipe_Name{0}=Fuel Pipe
-    Fuel_Pipe_Name{1}=fuel pipe
+    Heat_Shield_Name{0}=Tấm chắn nhiệt
+    Heat_Shield_Name{1}=tấm chắn nhiệt
+    Fuel_Pipe_Name{0}=Ống nhiên liệu
+    Fuel_Pipe_Name{1}=ống nhiên liệu
 
 [Part Descriptions]
-    Capsule_Description=A small capsule, carrying one astronaut
-    Probe_Description=An unmanned probe, used for one way missions
-    Parachute_Description=A parachute used for landing
-    Fuel_Tank_Description=A fuel tank carrying liquid fuel and liquid oxygen
-    Separator_Description=Vertical separator, used to detach empty stages
-    Side_Separator_Description=Horizontal separator, used for detaching side boosters
-    Landing_Leg_Description=An extendable and retractable leg used for landing on the surface of moons and planets
-    Structural_Part_Description=A light and strong structural part
-    Hawk_Engine_Description=A high thrust - lower efficiency engine, normally used in the first stage of a rocket
-    Titan_Engine_Description=A high thrust - lower efficiency engine, normally used in the first stage of a rocket
-    Valiant_Engine_Description=High efficiency, low thrust. Used in space when high thrust isn't a priority
-    Frontier_Engine_Description=High efficiency, low thrust. Used in space when high thrust isn't a priority
-    Kolibri_Engine_Description=A tiny engine used for landers
-    Ion_Engine_Description=A low thrust engine with an incredibly high efficiency
-    RCS_Thruster_Description=A set of small directional thrusters, used for docking
+    Capsule_Description=Một khoang lái nhỏ chứa một phi hành gia
+    Probe_Description=Một tàu thăm dò không người lái, dùng cho các nhiệm vụ một chiều
+    Parachute_Description=Một chiếc dù dùng để hạ cánh
+    Fuel_Tank_Description=Bình chứa nhiên liệu lỏng và oxy lỏng
+    Separator_Description=Bộ tách tầng dọc, dùng để tách các tầng đã hết nhiên liệu
+    Side_Separator_Description=Bộ tách ngang, dùng để tách các tên lửa đẩy bên
+    Landing_Leg_Description=Một chân đáp có thể mở rộng và thu gọn, dùng để hạ cánh trên bề mặt Mặt Trăng và hành tinh
+    Structural_Part_Description=Một bộ phận kết cấu nhẹ và chắc chắn
+    Hawk_Engine_Description=Một động cơ có lực đẩy cao - hiệu suất thấp, thường được dùng ở giai đoạn đầu của tên lửa
+    Titan_Engine_Description=Một động cơ có lực đẩy cao - hiệu suất thấp, thường được dùng ở giai đoạn đầu của tên lửa
+    Valiant_Engine_Description=Hiệu suất cao, lực đẩy thấp. Dùng trong không gian khi lực đẩy không phải ưu tiên
+    Frontier_Engine_Description=Hiệu suất cao, lực đẩy thấp. Dùng trong không gian khi lực đẩy không phải ưu tiên
+    Kolibri_Engine_Description=Một động cơ nhỏ dùng cho tàu đổ bộ
+    Ion_Engine_Description=Một động cơ lực đẩy thấp với hiệu suất cực cao
+    RCS_Thruster_Description=Một bộ động cơ nhỏ định hướng, dùng để kết nối tàu vũ trụ
 
-    Booster_Description=Has high thrust, low efficiency
-    Booster_Description=Cannot be turned off or throttle once ignite
+    Booster_Description=Có lực đẩy cao, hiệu suất thấp
+    Booster_Description=Không thể tắt hoặc điều chỉnh lực đẩy sau khi kích hoạt
 
-    Aerodynamic_Nose_Cone_Description=An aerodynamic nose cone, used to improve the aerodynamics of side boosters
-    Aerodynamic_Fuselage_Description=An aerodynamic fuselage, used to cover engines
-    Fairing_Description=An aerodynamic fairing, used to encapsulate payloads
-    Battery_Description=A battery used to store electric power
-    Solar_Panel_Description=A solar panel that generates power when extended
-    RTG_Description=Radioisotope thermoelectric generator or RTG
-    Rover_Wheel_Description=Rover wheel used to drive on the surface of planets
-    Docking_Port_Description=A docking port which can be used to connect two vehicles together
-    Heat_Shield_Description=A heat resistant shield used to survive atmospheric reentry
-    Fuel_Pipe_Description=A pipe used to transfer fuel
+    Aerodynamic_Nose_Cone_Description=Một chóp mũi khí động học, giúp cải thiện khí động học của tên lửa
+    Aerodynamic_Fuselage_Description=Một thân máy bay khí động học, dùng để che phủ động cơ
+    Fairing_Description=Một chụp bảo vệ khí động học, dùng để bảo vệ tải trọng
+    Battery_Description=Một pin dùng để lưu trữ điện năng
+    Solar_Panel_Description=Một tấm pin mặt trời tạo ra năng lượng khi mở rộng
+    RTG_Description=Một máy phát điện nhiệt điện đồng vị phóng xạ (RTG)
+    Rover_Wheel_Description=Một bánh xe rover dùng để di chuyển trên bề mặt hành tinh
+    Docking_Port_Description=Một cổng kết nối giúp gắn hai tàu vũ trụ lại với nhau
+    Heat_Shield_Description=Một tấm chắn nhiệt giúp tàu vũ trụ sống sót khi quay lại khí quyển
+    Fuel_Pipe_Description=Một ống dùng để chuyển nhiên liệu
 
 [Modules]
-    Torque_Module_Torque=Torque: %value%kN
-    Separation_Force=Separation force: %value%kN
-    Magnet_Force=Magnet force: %value%kN
+    Torque_Module_Torque=Mô-men xoắn: %value%kN
+    Separation_Force=Lực tách: %value%kN
+    Magnet_Force=Lực nam châm: %value%kN
 
-    Max_Heat_Tolerance=Heat tolerance: %temperature%
+    Max_Heat_Tolerance=Ngưỡng chịu nhiệt: %temperature%
 
-    State_On{0}=On
-    State_Off{0}=Off
+    State_On{0}=Bật
+    State_Off{0}=Tắt
 
-    Engine_Module_State=Engine %state{0}%
-    Engine_On_Label=Engine on
-    Gimbal_On_Label=Gimbal on
+    Engine_Module_State=Động cơ %state{0}%
+    Engine_On_Label=Động cơ bật
+    Gimbal_On_Label=Gimbal bật
 
     Msg_RCS_Module_State=RCS %state{0}%
 
-    Wheel_Module_State=Rover wheel %state{0}%
-    Wheel_On_Label=Wheel on
+    Wheel_Module_State=Bánh xe rover %state{0}%
+    Wheel_On_Label=Bánh xe bật
 
-    Panel_Expanded=Expanded
-    Landing_Leg_Expanded=Deployed
+    Panel_Expanded=Mở rộng
+    Landing_Leg_Expanded=Triển khai
 
-    Detach_Edges_Label=Detach edges
-    Adapt_To_Tanks_Label=Adapt to fuel tanks
+    Detach_Edges_Label=Gỡ các cạnh
+    Adapt_To_Tanks_Label=Điều chỉnh theo bình nhiên liệu
 
-    Info_Parachute_Max_Height=Max deploy height: %height%
-    Msg_Cannot_Deploy_Parachute_In_Vacuum=Cannot deploy parachute in a vacuum
-    Msg_Cannot_Deploy_Parachute_Above=Cannot deploy parachute above %height%
-    Msg_Cannot_Fully_Deploy_Above=Cannot fully deploy parachute above %height%
-    Msg_Cannot_Deploy_Parachute_While_Faster=Cannot deploy parachute when going faster than %velocity%
-    Msg_Cannot_Deploy_Parachute_While_Not_Moving=Cannot deploy parachute while not moving
-    Msg_Parachute_Half_Deployed=Parachute half deployed
-    Msg_Parachute_Fully_Deployed=Parachute fully deployed
-    Msg_Parachute_Cut=Parachute cut
+    Info_Parachute_Max_Height=Độ cao triển khai tối đa: %height%
+    Msg_Cannot_Deploy_Parachute_In_Vacuum=Không thể triển khai dù trong môi trường chân không
+    Msg_Cannot_Deploy_Parachute_Above=Không thể triển khai dù trên %height%
+    Msg_Cannot_Fully_Deploy_Above=Không thể mở hoàn toàn dù trên %height%
+    Msg_Cannot_Deploy_Parachute_While_Faster=Không thể triển khai dù khi tốc độ vượt quá %velocity%
+    Msg_Cannot_Deploy_Parachute_While_Not_Moving=Không thể triển khai dù khi không di chuyển
+    Msg_Parachute_Half_Deployed=Dù mở một phần
+    Msg_Parachute_Fully_Deployed=Dù mở hoàn toàn
+    Msg_Parachute_Cut=Dù bị cắt
 
 [Planets]
-    Sun{0}=Sun
-    Sun{1}=the Sun
-    Sun{2}=The Sun
-    Mercury{0}=Mercury
-    Venus{0}=Venus
-    Earth{0}=Earth
-    Earth{1}=the Earth
-    Earth{2}=The Earth
-    Earth{3}=Earth's
-    Moon{0}=Moon
-    Moon{1}=the Moon
-    Moon{2}=The Moon
-    Near_Earth_Asteroid{0}=Captured Asteroid
-    Near_Earth_Asteroid{1}=the Captured Asteroid
-    Near_Earth_Asteroid{2}=The Captured Asteroid
-    Mars{0}=Mars
+    Sun{0}=Mặt Trời
+    Sun{1}=Mặt Trời
+    Sun{2}=Mặt Trời
+    Mercury{0}=Sao Thủy
+    Venus{0}=Sao Kim
+    Earth{0}=Trái Đất
+    Earth{1}=Trái Đất
+    Earth{2}=Trái Đất
+    Earth{3}=Của Trái Đất
+    Moon{0}=Mặt Trăng
+    Moon{1}=Mặt Trăng
+    Moon{2}=Mặt Trăng
+    Near_Earth_Asteroid{0}=Tiểu hành tinh bị bắt giữ
+    Near_Earth_Asteroid{1}=Tiểu hành tinh bị bắt giữ
+    Near_Earth_Asteroid{2}=Tiểu hành tinh bị bắt giữ
+    Mars{0}=Sao Hỏa
     Phobos{0}=Phobos
     Deimos{0}=Deimos
-    Jupiter{0}=Jupiter
-    Jupiter{1}=Jupiter
-    Jupiter{2}=Jupiter
-    Jupiter{3}=Jupiter's
+    Jupiter{0}=Sao Mộc
+    Jupiter{1}=Sao Mộc
+    Jupiter{2}=Sao Mộc
+    Jupiter{3}=Của Sao Mộc
     Europa{0}=Europa
     Ganymede{0}=Ganymede
     Io{0}=Io
     Callisto{0}=Callisto
 
 [Landmarks]
-    Sea_of_Tranquility=Sea of Tranquility
-    Sea_of_Serenity=Sea of Serenity
-    Ocean_of_Storms=Ocean of Storms
-    Copernicus_Crater=Copernicus Crater
-    Tycho_Crater=Tycho Crater
+    Sea_of_Tranquility=Biển Tĩnh Lặng
+    Sea_of_Serenity=Biển Thanh Bình
+    Ocean_of_Storms=Đại dương Bão tố
+    Copernicus_Crater=Miệng núi lửa Copernicus
+    Tycho_Crater=Miệng núi lửa Tycho
 
-    Olympus_Mons=Olympus Mons
-    Valles_Marineris=Valles Marineris
-    Gale_Crater=Gale Crater
+    Olympus_Mons=Núi Olympus
+    Valles_Marineris=Thung lũng Marineris
+    Gale_Crater=Miệng núi lửa Gale
     Hellas_Planitia=Hellas Planitia
     Arcadia_Planitia=Arcadia Planitia
     Utopia_Planitia=Utopia Planitia
-    Jezero_Crater=Jezero Crater
+    Jezero_Crater=Miệng núi lửa Jezero
 
     Atalanta_Planitia=Atalanta Planitia
     Lavinia_Planitia=Lavinia Planitia
 
     Caloris_Planitia=Caloris Planitia
     Borealis_Planitia=Borealis Planitia
-    Maxwell_Montes=Maxwell Montes
+    Maxwell_Montes=Núi Maxwell
 
 [Challenges]
-    Liftoff_Title=Liftoff
-    Liftoff=Liftoff and land safely
+    Liftoff_Title=Cất cánh
+    Liftoff=Cất cánh và hạ cánh an toàn
 
-    Reach10km_Title=Reach 10km
-    Reach10km=Reach 10km and land safely
+    Reach10km_Title=Đạt 10km
+    Reach10km=Đạt độ cao 10km và hạ cánh an toàn
 
-    ReachSpace_Title=Reach Space
-    ReachSpace=Reach %height%, then survive reentry and land safely
+    ReachSpace_Title=Đạt không gian
+    ReachSpace=Đạt độ cao %height%, sau đó chịu được tái nhập khí quyển và hạ cánh an toàn
 
-    Land100kmDownrange_Title=Land 100km downrange
-    Land100kmDownrange=Land at least 100km away from the launch pad
+    Land100kmDownrange_Title=Hạ cánh cách 100km
+    Land100kmDownrange=Hạ cánh cách ít nhất 100km từ bệ phóng
 
-    ReachLowEarthOrbit_Title=Reach Low Earth Orbit
-    ReachLowEarthOrbit=Reach low Earth orbit, then land safely
+    ReachLowEarthOrbit_Title=Đạt quỹ đạo thấp Trái Đất
+    ReachLowEarthOrbit=Đạt quỹ đạo thấp Trái Đất, sau đó hạ cánh an toàn
 
-    ReachHighEarthOrbit_Title=Reach High Earth Orbit
-    ReachHighEarthOrbit=Reach high Earth orbit, then land safely
+    ReachHighEarthOrbit_Title=Đạt quỹ đạo cao Trái Đất
+    ReachHighEarthOrbit=Đạt quỹ đạo cao Trái Đất, sau đó hạ cánh an toàn
 
-    MoonOrbit_Title=Moon Orbit
-    MoonOrbit=Capture into low Moon orbit, then return safely
+    MoonOrbit_Title=Quỹ đạo Mặt Trăng
+    MoonOrbit=Vào quỹ đạo thấp Mặt Trăng, sau đó trở về an toàn
 
-    MoonTour_Title=Moon Tour
-    MoonTour=Land on 3 separate landmarks, then return safely
+    MoonTour_Title=Thám hiểm Mặt Trăng
+    MoonTour=Hạ cánh ở 3 địa danh khác nhau, sau đó trở về an toàn
 
-    AsteroidImpact_Title=Asteroid Impact
-    AsteroidImpact=Crash into the surface of the Captured Asteroid at 200+ m/s
+    AsteroidImpact_Title=Va chạm tiểu hành tinh
+    AsteroidImpact=Đâm vào bề mặt của Tiểu hành tinh bị bắt giữ với tốc độ trên 200 m/s
 
-    MarsGrandTour_Title=Mars Grand Tour
-    MarsGrandTour=Land on Mars, Phobos and Deimos in one flight, then return safely
+    MarsGrandTour_Title=Chuyến thám hiểm Sao Hỏa
+    MarsGrandTour=Hạ cánh lên Sao Hỏa, Phobos và Deimos trong một chuyến bay, sau đó trở về an toàn
 
-    VenusLanding_Title=Venus Landing
-    VenusLanding=Descend through the thick atmosphere and land on the surface of Venus
+    VenusLanding_Title=Hạ cánh Sao Kim
+    VenusLanding=Đi qua bầu khí quyển dày đặc và hạ cánh xuống bề mặt Sao Kim
 
-    VenusReturn_Title=Venus Return
-    VenusReturn=Land on the surface of Venus, then ascend trough the thick atmosphere and return safely
+    VenusReturn_Title=Trở về từ Sao Kim
+    VenusReturn=Hạ cánh xuống Sao Kim, sau đó bay lên qua khí quyển dày và trở về an toàn
 
-    MercuryLanding_Title=Mercury Landing
-    MercuryLanding=Land on the surface of Mercury
+    MercuryLanding_Title=Hạ cánh Sao Thủy
+    MercuryLanding=Hạ cánh xuống bề mặt Sao Thủy
 
-    MercuryReturn_Title=Mercury Return
-    MercuryReturn=Land on the surface of Mercury, then return safely
+    MercuryReturn_Title=Trở về từ Sao Thủy
+    MercuryReturn=Hạ cánh xuống Sao Thủy, sau đó trở về an toàn
 
-
-    LandAndReturn_Title=%planet{0}% Landing
-    LandAndReturn=Land on the surface of %planet{0}%, then return safely
+    LandAndReturn_Title=Hạ cánh %planet{0}%
+    LandAndReturn=Hạ cánh xuống %planet{0}%, sau đó trở về an toàn
 
 [Achievements]
-    Reached_Height=Reached %height% altitude
-    Reached_Karman_Line=Passed the Karman line, leaving the atmosphere and reaching space
-    Survived_Reentry=Reentered %planet{3}% atmosphere, max temperature %temperature%
+    Reached_Height=Đạt độ cao %height%
+    Reached_Karman_Line=Vượt qua đường Kármán, rời khỏi khí quyển và tiến vào không gian
+    Survived_Reentry=Tái nhập khí quyển %planet{3}%, nhiệt độ tối đa %temperature%
 
-    Reached_Low_Orbit=Reached low %planet{0}% orbit
-    Reached_High_Orbit=Reached high %planet{0}% orbit
-    Descend_Low_Orbit=Descended to low %planet{0}% orbit
-    Capture_Low_Orbit=Captured into low %planet{0}% orbit
-    Capture_High_Orbit=Captured into high %planet{0}% orbit
+    Reached_Low_Orbit=Đạt quỹ đạo thấp %planet{0}%
+    Reached_High_Orbit=Đạt quỹ đạo cao %planet{0}%
+    Descend_Low_Orbit=Hạ xuống quỹ đạo thấp %planet{0}%
+    Capture_Low_Orbit=Bắt giữ vào quỹ đạo thấp %planet{0}%
+    Capture_High_Orbit=Bắt giữ vào quỹ đạo cao %planet{0}%
 
-    Entered_Lower_Atmosphere=Entered %planet{3}% lower atmosphere
-    Entered_Upper_Atmosphere=Entered %planet{3}% upper atmosphere
-    Left_Lower_Atmosphere=Reached %planet{3}% upper atmosphere
-    Left_Upper_Atmosphere=Escaped %planet{3}% atmosphere
+    Entered_Lower_Atmosphere=Tiến vào tầng khí quyển thấp của %planet{3}%
+    Entered_Upper_Atmosphere=Tiến vào tầng khí quyển cao của %planet{3}%
+    Left_Lower_Atmosphere=Rời khỏi tầng khí quyển thấp của %planet{3}%
+    Left_Upper_Atmosphere=Thoát khỏi khí quyển của %planet{3}%
 
-    Landed=Landed on the surface of %planet{1}%
+    Landed=Hạ cánh xuống bề mặt %planet{1}%
 
-    Landed_At_Landmark=Landed on the surface of %planet{1}%
-    Landed_At_Landmark=<size=55>Location: %landmark%</size>
+    Crashed_Into_Terrain=Đâm vào bề mặt %planet{1}%
 
-    Landed_At_Landmark__Short=Landed on the surface of %planet{1}%
-    Landed_At_Landmark__Short=- %landmark% -
+    Entered_SOI=Tiến vào vùng ảnh hưởng hấp dẫn của %planet{1}%
+    Escaped_SOI=Thoát khỏi vùng ảnh hưởng hấp dẫn của %planet{1}%
 
-    Crashed_Into_Terrain=Crashed into the surface of %planet{1}%
-
-    Entered_SOI=Entered the sphere of influence of %planet{1}%
-    Escaped_SOI=Escaped the sphere of influence of %planet{1}%
-
-    Docked_Suborbital=Docked in a suborbital trajectory of %planet{1}%
-    Docked_Orbit_Low=Docked in low %planet{0}% orbit
-    Docked_Orbit_Transfer=Docked in a transfer orbit of %planet{1}%
-    Docked_Orbit_High=Docked in high %planet{0}% orbit
-    Docked_Escape=Docked on an escape trajectory of %planet{1}%
-    Docked_Surface=Docked on the surface of %planet{1}%
-
-    Recover_Home=Safely returned to %planet{1}%
+    Recover_Home=Trở về an toàn %planet{1}%
